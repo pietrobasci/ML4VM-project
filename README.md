@@ -1,5 +1,5 @@
 # Unsupervised Domain Adaptation through CycleGAN
-Final project for the course "Machine Learning for Vision and Multimedia" @Politecnico di Torino. 
+Final project for the course "Machine Learning for Vision and Multimedia" @Politecnico di Torino.
 
 * *Main algorithms and techniques:* CNN, CycleGAN, U-Net, PatchGAN, t-SNE.
 * *Evaluation metrics:* Feature Embeddings (t-SNE), Generated vs Real images (Nearest Neighbor search), Accuracy, Confusion Matrix.
